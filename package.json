@@ -12,6 +12,7 @@
     "jshint": "^2.9.4"
   },
   "dependencies": {
+    "axios": "^0.16.1",
     "request": "^2.81.0",
     "yargs": "^4.8.1"
   }
